@@ -412,7 +412,7 @@ function Footer({ navigateTo }: { navigateTo: (p: PageType) => void }) {
             </div>
           </div>
           <div className="mt-32 pt-8 border-t border-white/10 text-center">
-            <p className="font-display text-sm text-white/60">SITE CREDITS: <span className="text-[#776848]">N MAHESH</span></p>
+            <p className="font-display text-sm text-white/60">SITE CREDITS: <span className="text-[#776848]">MAHESH</span></p>
             <p className="font-body text-xs tracking-wide-premium text-white/40 mt-2">© 2026 Acme Visions by Ananth Vara Prasad. All rights reserved.</p>
           </div>
         </div>
